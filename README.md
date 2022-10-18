@@ -8,6 +8,13 @@
 - `requests`
 - `lxml`
 
+## Installation
+
+```bash
+poetry install
+```
+
+
 ## How to use
 
 You can translate any string with this module:
